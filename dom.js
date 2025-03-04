@@ -65,7 +65,7 @@ newButton.textContent = `Call Us 0800-000-000`
 newButton.style.width = `50%`
 addElement.appendChild(newButton)
 
-// No6
+// insertAdjacentElement
 newFAQ.innerHTML = ``
 const anotherButton = document.createElement("button")
 anotherButton.textContent = `Click Here`
